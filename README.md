@@ -4,7 +4,12 @@
  Um desafio proposto por Gustavo Guanabara de fazer um site usando HTML e CSS, estilizando e responsivando-o. Possui a história do mascote do Android como o conteúdo principal, além de mostrar um vídeo já postado no youtube e um conteúdo extra.
 
 
-## 🪄 Funcionalidades
+## 🌐 Aplicação Hospedada
+
+ [Clique aqui para acessar o website](https://enne-amore.github.io/android/)
+
+
+## ⚡ Funcionalidades
 
  - Barra horizontal de navegação por dentro da página
  - Mais acessibilidade usando a tecla "tab"
@@ -12,30 +17,27 @@
  - Botão de voltar ao topo da página
 
 
-## ✅ Demonstração
-
- [Clique aqui para acessar o meu site](https://enne-amore.github.io/Android/)
-
-
 ## 🚀 Tecnologias Utilizadas
 
- - HTML
- - CSS
- - JavaScript
+ <p align="left">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/2048px-Official_CSS_Logo.svg.png" title="CSS" alt="CSS" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+ </p>
 
 
-## 🌈 Documentação De Cores
+## 🌈 Cores
 
-| Cor                 | Hexadecimal                                                      |
-| ------------------- | ---------------------------------------------------------------- |
-| Verde Clara 1       | ![#bcffda](https://via.placeholder.com/10/bcffda?text=+) #bcffda |
-| Verde Clara 2       | ![#84E1AD](https://via.placeholder.com/10/84E1AD?text=+) #84E1AD |
-| Verde Neutra        | ![#3BD27F](https://via.placeholder.com/10/3BD27F?text=+) #3BD27F |
-| Verde Escura        | ![#195B38](https://via.placeholder.com/10/195B38?text=+) #195B38 |
-| Cinza Escura        | ![#222222](https://via.placeholder.com/10/222222?text=+) #222222 |
+ | Cor           | Hexadecimal |
+ | ------------- | ----------- |
+ | Verde Clara 1 | `#bcffda`   |
+ | Verde Clara 2 | `#84E1AD`   |
+ | Verde Neutra  | `#3BD27F`   |
+ | Verde Escura  | `#195B38`   |
+ | Cinza Escura  | `#222222`   |
 
 
-## 🌟 Referências De Uso
+## 🌟 Referências de Uso
 
  - [Desafio Proposto Por Gustavo Guanabara](https://github.com/gustavoguanabara/html-css/tree/master/desafios/modulo-02/d010)
  - [Dan Morrill](https://androidcommunity.com/dan-morrill-shows-us-the-android-mascot-that-almost-was-20130103/)
@@ -46,4 +48,5 @@
 
 ## 🔧 Suporte
 
- Para me contatar como suporte, o meu email é EnneFofe10@gmail.com 
+ Para me contatar como suporte, o meu email é [Enne.Pessoa@gmail.com](mailto:Enne.Pessoa@gmail.com)
+
