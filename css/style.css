@@ -80,7 +80,6 @@ body {
     transition-duration: .4s;
 }
 #conteudo a:focus-visible {
-    outline: auto;
     padding: 0.1em;
 }
 #conteudo a:hover,
@@ -244,7 +243,6 @@ body {
     transition-duration: .2s;
 }
 #rodape a:focus-visible {
-    outline: auto;
     padding: 0.1em;
 }
 #rodape a:hover,

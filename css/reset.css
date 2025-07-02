@@ -28,10 +28,6 @@ a {
     text-decoration: none;
 }
 
-:focus {
-    outline: 0;
-}
-
 /* Variáveis CSS */
 :root {
     --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
