@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
 @font-face {
-    font-family: 'android';
+    font-family: "android";
     src: url(../fonts/idroid.otf) format(opentype);
 }
 
@@ -35,8 +35,8 @@ a {
 /* Variáveis CSS */
 :root {
     --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
-    --fonte-destaque: 'Bebas Neue', sans-serif;
-    --fonte-android: 'android';
+    --fonte-destaque: "Bebas Neue", sans-serif;
+    --fonte-android: "android", sans-serif;
 
     --verde-clara-1: #bcffda;
     --verde-clara-2: #84E1AD;

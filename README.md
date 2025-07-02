@@ -77,6 +77,22 @@
  | Cinza Escura  | `#222222`   |
 
 
+## 🔤 Fontes Tipográficas
+
+ - **Idroid**  
+   Exemplo de uso:  
+   `font-family: "android, sans-serif";` ou 
+   `font-family: var(--fonte-android);`
+ - **Bebas Neue**  
+   Exemplo de uso:  
+   `font-family: "Bebas Neue, sans-serif";` ou 
+   `font-family: var(--fonte-destaque);`
+ - **Arial, Helvetica, Sans-Serif**  
+   Exemplo de uso:  
+   `font-family: Arial, Helvetica, sans-serif;` ou 
+   `font-family: var(--fonte-padrao);`
+
+
 ## 🌟 Referências de Uso
 
  - [Desafio Proposto Por Gustavo Guanabara](https://github.com/gustavoguanabara/html-css/tree/master/desafios/modulo-02/d010)
