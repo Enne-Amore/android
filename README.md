@@ -26,6 +26,25 @@
  </p>
 
 
+## 📂 Estrutura do Projeto
+
+ ```plaintext
+ android/
+ ├── css/                    # Arquivos CSS
+ │   ├── reset.css       
+ │   ├── responsive.css  
+ │   ├── style.css
+ ├── fonts/                  # Arquivos das fontes utilizadas  
+ │   ├── idroid.otf
+ ├── img/                    # Imagens utilizadas 
+ ├── js/                     # Arquivos JavaScript
+ │   ├── topo.js
+ ├── index.html              # Arquivo principal de renderização
+ ├── LICENSE                 # Arquivo de licença do projeto
+ ├── README.md
+ ```
+
+
 ## 🌈 Cores
 
  | Cor           | Hexadecimal |
