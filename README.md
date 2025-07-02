@@ -9,6 +9,11 @@
  [Clique aqui para acessar o website](https://enne-amore.github.io/android/)
 
 
+## 🎞️ Pré-visualização
+
+ <img src="img/preview.gif" alt="Pré-visualização do site" width="340" height="200">
+
+
 ## ⚡ Funcionalidades
 
  - Barra horizontal de navegação por dentro da página
@@ -34,6 +39,8 @@
  │   ├── reset.css       
  │   ├── responsive.css  
  │   ├── style.css
+ ├── docs/                   # Arquivos de documentação do projeto 
+ │   ├── preview.mp4
  ├── fonts/                  # Arquivos das fontes utilizadas  
  │   ├── idroid.otf
  ├── img/                    # Imagens utilizadas 
