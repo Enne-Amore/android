@@ -4,7 +4,17 @@
  Um desafio proposto por Gustavo Guanabara de fazer um site usando HTML e CSS, estilizando e responsivando-o. Possui a história do mascote do Android como o conteúdo principal, além de mostrar um vídeo já postado no youtube e um conteúdo extra.
 
 
-## 🪄 Funcionalidades
+## 🌐 Aplicação Hospedada
+
+ [Clique aqui para acessar o website](https://enne-amore.github.io/android/)
+
+
+## 🎞️ Pré-visualização
+
+ <img src="img/preview.gif" alt="Pré-visualização do site" width="340" height="200">
+
+
+## ⚡ Funcionalidades
 
  - Barra horizontal de navegação por dentro da página
  - Mais acessibilidade usando a tecla "tab"
@@ -12,30 +22,85 @@
  - Botão de voltar ao topo da página
 
 
-## ✅ Demonstração
-
- [Clique aqui para acessar o meu site](https://enne-amore.github.io/Android/)
-
-
 ## 🚀 Tecnologias Utilizadas
 
- - HTML
- - CSS
- - JavaScript
+ <p align="left">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/2048px-Official_CSS_Logo.svg.png" title="CSS" alt="CSS" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+ </p>
 
 
-## 🌈 Documentação De Cores
+## 📂 Estrutura do Projeto
 
-| Cor                 | Hexadecimal                                                      |
-| ------------------- | ---------------------------------------------------------------- |
-| Verde Clara 1       | ![#bcffda](https://via.placeholder.com/10/bcffda?text=+) #bcffda |
-| Verde Clara 2       | ![#84E1AD](https://via.placeholder.com/10/84E1AD?text=+) #84E1AD |
-| Verde Neutra        | ![#3BD27F](https://via.placeholder.com/10/3BD27F?text=+) #3BD27F |
-| Verde Escura        | ![#195B38](https://via.placeholder.com/10/195B38?text=+) #195B38 |
-| Cinza Escura        | ![#222222](https://via.placeholder.com/10/222222?text=+) #222222 |
+ ```plaintext
+ android/
+ ├── css/                    # Arquivos CSS
+ │   ├── reset.css       
+ │   ├── responsive.css  
+ │   ├── style.css
+ ├── docs/                   # Arquivos de documentação do projeto 
+ │   ├── preview.mp4
+ ├── fonts/                  # Arquivos das fontes utilizadas  
+ │   ├── idroid.otf
+ ├── img/                    # Imagens utilizadas 
+ ├── js/                     # Arquivos JavaScript
+ │   ├── topo.js
+ ├── index.html              # Arquivo principal de renderização
+ ├── LICENSE                 # Arquivo de licença do projeto
+ ├── README.md
+ ```
 
 
-## 🌟 Referências De Uso
+## 🛠️ Instalação Local
+
+ 1. **Clone o repositório**
+ 
+ No terminal, rode o seguinte comando:
+ 
+ ```bash
+ git clone https://github.com/Enne-Amore/android.git
+ ```
+ 
+ 2. **Entre no arquivo "index.html"**
+ 
+ 3. **Rode o arquivo principal de renderização:**
+ 
+ Clique com o botão direito do mouse e selecione a seguinte opção:
+ 
+ ```bash
+ Open with Live Server
+ ```
+
+
+## 🌈 Cores
+
+ | Cor           | Hexadecimal |
+ | ------------- | ----------- |
+ | Verde Clara 1 | `#bcffda`   |
+ | Verde Clara 2 | `#84E1AD`   |
+ | Verde Neutra  | `#3BD27F`   |
+ | Verde Escura  | `#195B38`   |
+ | Cinza Escura  | `#222222`   |
+
+
+## 🔤 Fontes Tipográficas
+
+ - **Idroid**  
+   Exemplo de uso:  
+   `font-family: "android, sans-serif";` ou 
+   `font-family: var(--fonte-android);`
+ - **Bebas Neue**  
+   Exemplo de uso:  
+   `font-family: "Bebas Neue, sans-serif";` ou 
+   `font-family: var(--fonte-destaque);`
+ - **Arial, Helvetica, Sans-Serif**  
+   Exemplo de uso:  
+   `font-family: Arial, Helvetica, sans-serif;` ou 
+   `font-family: var(--fonte-padrao);`
+
+
+## 🌟 Referências de Uso
 
  - [Desafio Proposto Por Gustavo Guanabara](https://github.com/gustavoguanabara/html-css/tree/master/desafios/modulo-02/d010)
  - [Dan Morrill](https://androidcommunity.com/dan-morrill-shows-us-the-android-mascot-that-almost-was-20130103/)
@@ -46,4 +111,5 @@
 
 ## 🔧 Suporte
 
- Para me contatar como suporte, o meu email é EnneFofe10@gmail.com 
+ Para me contatar como suporte, o meu email é [Enne.Pessoa@gmail.com](mailto:Enne.Pessoa@gmail.com)
+

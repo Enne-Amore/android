@@ -1,0 +1,114 @@
+@charset "UTF-8";
+
+/* Dispositivos em pé */
+@media screen and (max-width: 1200px) and (orientation: portrait) {
+    body {
+        font-size: 3.5vw;
+    }
+
+    #cabecalho {
+        font-size: 1.2em;
+    }
+    #cabecalho h1 {
+        letter-spacing: 0.1em;
+        margin: 6% auto 4%;
+    }
+    #cabecalho p {
+        margin: auto 5%;
+    }
+    #cabecalho #nav ul {
+        margin: auto 2%;
+        gap: 0%;
+    }
+    #cabecalho #nav ul a {
+        padding: 6% 0;
+    }
+    #cabecalho #nav ul a:hover {
+        padding: 6% 3%;
+    }
+
+    #conteudo {
+        margin: auto;
+        font-size: 1.3em;
+        border-radius: initial;
+        padding: 2% 4%;
+    }
+    #conteudo .historia h2,
+    #conteudo .historia h3 {
+        margin: 4% 0;
+    }
+    #conteudo p {
+        font-size: 1.1em;
+    }
+
+    #conteudo .historia .video {
+        margin: 5% auto 15%;
+    }
+    #conteudo .historia .video iframe {
+        width: 100%;
+        height: 52vw;
+    }
+    
+    #conteudo .extra {
+        margin: 8% 2%;
+    }
+    #conteudo .extra div h3 {
+        font-size: 1.4em;
+    }
+    #conteudo .extra article {
+        padding: 3% 5%;
+    }
+    #conteudo .extra article .lista {
+        columns: 1;
+        font-size: 1.1em;
+    }
+
+    #rodape {
+        padding: 1em;
+    }
+    #rodape #topo {
+        font-size: 3em;
+        margin: 2.5% auto 3.5%;
+    }
+    #rodape a:hover {
+        transition-duration: .1s;
+    }
+    #rodape p {
+        margin: 0% 5%;
+        padding: 2% 0;
+        font-size: 1.2em;
+    }
+}
+
+/* Dispositivos deitados */
+@media screen and (max-width: 1200px) and (orientation: landscape) {
+    body {
+        font-size: 3vw;
+    }
+
+    #cabecalho p {
+        margin: auto 5%;
+    }
+    #cabecalho #nav ul {
+        margin: auto 5%;
+    }
+
+    #conteudo {
+        margin: auto;
+        border-radius: initial;
+        padding: 4% 5%;
+    }
+    #conteudo .historia .video {
+        padding-bottom: 54.6%;
+        margin: 1em auto -1em;
+    }
+    #conteudo .historia .video iframe {
+        width: 95%;
+        height: 95%;
+        margin: 0 auto;
+    }
+
+    #rodape #topo {
+        font-size: 2.8em;
+    }
+}
